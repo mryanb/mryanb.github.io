@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            YaBro
+tagline:           
+url:              http://yab.ro
+paginate:         1
+baseurl:          /
+author:
+  name:           Ryan Bantz
+  url:            https://twitter.com/ryanbatnz
+  email:          
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
